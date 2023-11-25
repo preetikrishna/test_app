@@ -1,0 +1,79 @@
+    1  history >> commands.txt
+    2  history
+    3  ls
+    4  pwd
+    5  ls
+    6  mkdir test_app
+    7  ls
+    8  cd Videos
+    9  pwd
+   10  ls
+   11  cd ..
+   12  clear
+   13  ls
+   14  pwd
+   15  cd Desktop
+   16  cd saved games
+   17  cd "Saved Games"
+   18  ls
+   19  clear
+   20  mkdir test_app
+   21  ls
+   22  pwd
+   23  clear
+   24  cd test_app
+   25  ls
+   26  pwd
+   27  mkdir f1
+   28  mkdir f2 f3 f4 f5
+   29  rmdir f5
+   30  rmdir f4 f3 f2
+   31  clear
+   32  ls
+   33  rm -r f1
+   34  mkdir f1
+   35  rmdir f1
+   36  touch f1.txt
+   37  touch f2.sql
+   38  clear
+   39  cat f2.sql
+   40  cat f2.sql
+   41  nano f1.txt
+   42  nano f1.txt
+   43  cat f1.txt
+   44  nano f1.txt
+   45  ls
+   46  cd text_app
+   47  ls
+   48  history ** commands.txt
+   49  history
+   50  history >> command.git
+   51  cd test_app
+   52  history >> command.text
+   53  cd Desktop
+   54  ls
+   55  cd Desktop
+   56  cd test_app
+   57  history ** commands.txt
+   58  history
+   59  history >> commands.txt
+   60  pwd
+   61  pwd
+   62  mkdir commands.txt
+   63  cd Desktop
+   64  mkdir test_app
+   65  rmdir test_app
+   66  mkdir text_app
+   67  cd text_app
+   68  mkdir f1
+   69  touch f1.txt
+   70  touch f2.sql
+   71  history >> commands.txt
+   72  cd test_app
+   73  mkdir test_app
+   74  rmdir test_app
+   75  cd ..
+   76  cd test_app
+   77  touch f1.txt
+   78  touch f2.sql
+   79  history >> commands.txt
